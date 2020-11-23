@@ -6,6 +6,5 @@ target 'TapNibViewV2' do
   use_frameworks!
 
   # Pods for TapNibViewV2
-	pod 'SwiftLint'
 	pod 'TapAdditionsKitV2'
 end
