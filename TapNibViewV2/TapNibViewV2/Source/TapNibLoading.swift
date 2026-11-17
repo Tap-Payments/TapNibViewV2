@@ -5,6 +5,7 @@
 //  Copyright © 2019 Tap Payments. All rights reserved.
 //
 
+import class Foundation.NSBundle.Bundle
 import class UIKit.UIView.UIView
 
 /// Tap Nib Loading Protocol
